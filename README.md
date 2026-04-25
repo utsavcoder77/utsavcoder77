@@ -1,18 +1,51 @@
-### Hi there 👋
-Introduction
-Welcome to my GitHub repository! I'm Utsav Baral, a passionate developer and enthusiast about technology. This repository houses a collection of my projects, code snippets, and experiments. Feel free to explore and use anything you find interesting.
+<h1 align="center">Hi 👋, I'm Utsav</h1>
+<h3 align="center">Full-Stack Developer | Building scalable web apps with clean UX</h3>
 
-About Me
-I'm a software engineer with a keen interest in web development, machine learning, and open-source projects. My goal is to create impactful solutions that make a difference in people's lives. I enjoy learning new technologies and collaborating with others to build innovative solutions.
+<p align="center">
+  <a href="https://github.com/utsavcoder77">
+    <img src="https://komarev.com/ghpvc/?username=utsavcoder77&label=Profile%20views&color=0e75b6&style=flat" alt="utsavcoder77" />
+  </a>
+</p>
 
-Link to Project
-Description: A short overview of what the project does.
-Project Name: utsavcoder77.github.io/
+---
 
-Contributions
-Contributions and feedback are always welcome! Whether it's bug fixes, feature enhancements, or just suggestions, feel free to open an issue or submit a pull request. Together, we can make great things happen!
+### 🚀 About Me
+- 💼 Full-stack developer focused on **NestJS, React, TypeScript**
+- 🛠️ Interested in **marketplace apps, payments, and real-time systems**
+- 🌱 Currently improving: **system design, cloud deployment, CI/CD**
+- 🎯 Goal: Build products that are fast, reliable, and user-centric
 
-Contact
-If you'd like to get in touch with me, you can reach me via email at baralutsav89@gmail.com or connect with me on LinkedIn. I'm always open to networking and collaborating on interesting projects.
+---
+
+### 🧰 Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,vite,nodejs,nestjs,express,postgres,prisma,mysql,redis,docker,git,github,vercel,aws" />
+</p>
+
+---
+
+### 📌 Featured Projects
+- 🔹 **urMate** — Task marketplace with Stripe Connect, role-based flows, and activity dashboard
+- 🔹 **captureamazing memories** — photograpgy portfolio and booking website
 
 
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=utsavcoder77&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utsavcoder77&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=utsavcoder77&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/utsav-baral/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:baralutsav89@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.utsavbaral.au/"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
